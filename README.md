@@ -1,5 +1,5 @@
 
-# FaceAttendance System
+# Facetendance 
 
 A face recognition-based attendance management system using Firebase as the backend and OpenCV for camera integration. This system recognizes student faces and marks their attendance in real-time, displaying relevant information such as name, roll number, total attendance, and time of last attendance.
 
