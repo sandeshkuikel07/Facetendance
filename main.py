@@ -24,8 +24,8 @@ class FaceAttendanceSystem:
         try:
             cred = credentials.Certificate("serviceAccountKey.json")
             firebase_admin.initialize_app(cred, {
-                'databaseURL': "https://facetendance-default-rtdb.firebaseio.com/",
-                'storageBucket': "gs://facetendance.appspot.com"
+                'databaseURL': "your_database_url",  # Replace with your actual database URL",
+                'storageBucket': "your_storage_bucket"  # Replace with your actual storage bucket
             })
             self.bucket = storage.bucket()
             print("Firebase initialized successfully")
