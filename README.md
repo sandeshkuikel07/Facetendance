@@ -90,4 +90,3 @@ Students
 - OpenCV and face_recognition for face recognition processing
 - Firebase for real-time data management and storage
 - Tkinter for GUI development
-```
