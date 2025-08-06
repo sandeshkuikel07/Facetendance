@@ -84,9 +84,6 @@ Students
        ├── year: number
 ```
 
-## Screenshots
-
-Include any relevant screenshots of the system in action here.
 
 ## Acknowledgments
 
@@ -94,5 +91,3 @@ Include any relevant screenshots of the system in action here.
 - Firebase for real-time data management and storage
 - Tkinter for GUI development
 ```
-
-This README now includes everything needed to get the project set up, including Firebase configuration, service account key, and automatic modifications to the `main.py` file. You can simply copy and paste it into your GitHub repository without having to do any manual changes.
